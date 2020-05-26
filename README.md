@@ -1,3 +1,6 @@
+# Newsletter 
+Some of these appear oddly cut off, the formatting was fine I promise.
+
 ![dfg_1.PNG](dfg_1.PNG)
 ![dfg_2.PNG](dfg_2.PNG)
 ![dfg_3.PNG](dfg_3.PNG)
