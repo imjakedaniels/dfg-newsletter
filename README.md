@@ -1,6 +1,7 @@
 # DFG Newsletter 
-Jake here, some of these appear oddly cut off, the formatting was fine I promise. 
----
+Below is a newsletter I wrote for Data For Good, I did a few others, but this one really packed a punch! Don't mind the inconsistent formatting, it's just my snapshot tool.
+
+
 ![dfg_1.PNG](dfg_1.PNG)
 ![dfg_2.PNG](dfg_2.PNG)
 ![dfg_3.PNG](dfg_3.PNG)
